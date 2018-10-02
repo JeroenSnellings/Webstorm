@@ -1,0 +1,19 @@
+h1 {
+    color: #016602;
+
+}
+p {
+    background: #6a7689;
+    color: #f0ffff;
+    padding: 20px;
+}
+body {
+    background: #d9ddd7;
+    font-family: Verdana;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: green;
+}

@@ -1,0 +1,35 @@
+
+html {
+    font-family: 'RunicSansInlineInline';
+
+}
+
+h1.titel {
+    color: lightgray;
+}
+h2.favoriet {
+    color: yellow;
+}
+
+h2 {
+    color: white;
+}
+p {
+    color: #f0ffff;
+    padding: 20px;
+}
+
+body {
+    background-image: url("Assets/pagan_background.jpg");
+}
+a{
+    color: yellow;
+}
+a:hover{
+    color: green;
+    font-size: larger;
+}
+img {
+    height: 200px;
+    width: 180px;
+}

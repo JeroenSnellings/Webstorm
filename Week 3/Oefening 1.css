@@ -1,0 +1,38 @@
+html{
+    background-color: #c7ced8;
+}
+table {
+    color: white;
+    border-spacing: 1px;
+    background-color: black;
+    font-family: "Comic Sans MS";
+    font-size: smaller;
+    text-align: center;
+    vertical-align: center;
+}
+
+tbody tr:nth-child(2n+1) {
+    background-color: #4f8cef;
+
+}
+tbody tr:nth-child(2n){
+    background-color: #6facff;
+}
+td.foot {
+
+    background-color: #27426d;
+}
+td {
+    height: 20px;
+    width: auto;
+    padding: 2px;
+}
+th.data{
+    height: 20px;
+    width: 100px;
+    padding: 2px;
+
+}
+thead {
+    background-color: #27426d;
+}
